@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "description": "Dark mode for Chrome",
     "manifest_version": 3,
-    "author": "Angelo Velandia <@lovedev>",
+    "author": "avrcodev",
     "content_scripts":  [
         {
             "css": ["themes.css"],
